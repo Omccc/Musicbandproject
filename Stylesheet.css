@@ -1,0 +1,85 @@
+.carousel-item img {
+  width: 350px;
+  height: 550px;
+}
+
+h1{
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  ;
+}
+
+
+
+.container2 {
+  display:flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+
+.container3 {
+  display:flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+
+h5,p{
+  text-align: center;
+}
+
+
+h3{
+  text-align: left;
+}
+
+
+.container4{
+
+
+  display: flex;
+  justify-content: left;
+  
+
+}
+
+
+
+.container5{
+  padding-left: 40%;
+ 
+  
+}
+
+.container6{
+  padding-left: 10%;
+  
+  gap: 10px;
+  justify-content: center;
+}
+
+.form{
+
+  padding-top: 5%;
+}
+
+
+
+iframe {
+  border-radius:3%;
+  
+}
+
+.History{
+
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.button{
+  text-align: center;
+}
